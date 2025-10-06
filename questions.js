@@ -42,7 +42,7 @@ const questions = [
   {
     "question": "9. What is the speed for VO according to the POH?",
     "options": ["140kts", "88kts", "64kts", "176kts"],
-    "correct": 3
+    "correct": 0
   },
   {
     "question": "10. What is the speed for VFE 50% according to the POH?",
@@ -167,12 +167,12 @@ const questions = [
   {
     "question": "34. What is the maximum allowable fuel imbalance for the aircraft?",
     "options": ["9 U.S. gallons", "10 U.S. gallons", "11 U.S. gallons", "8 U.S. gallons"],
-    "correct": 0
+    "correct": 1
   },
   {
     "question": "35. What is the emergency landing speed with flaps up?",
     "options": ["80 kts", "95 kts", "90 kts", "85 kts"],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "36. What is the emergency landing speed with flaps at 50?",
@@ -182,7 +182,7 @@ const questions = [
   {
     "question": "37. What is the emergency landing speed with flaps at 100?",
     "options": ["80 kts", "90 kts", "85 kts", "95 kts"],
-    "correct": 2
+    "correct": 0
   },
   {
     "question": "38. According to the POH, what is the landing speed range with flaps up?",
@@ -202,7 +202,7 @@ const questions = [
   {
     "question": "41. A governor failure can cause which of the following situations?",
     "options": ["Oil high pressure and oil high temperature", "Oil high pressure and low fuel pressure", "Oil low pressure and high engine speed", "Oil high temperature and low fuel capacity"],
-    "correct": 2
+    "correct": 0
   },
   {
     "question": "42. What is the overall range for Essential Bus Volts?",
@@ -222,7 +222,7 @@ const questions = [
   {
     "question": "45. What is the red arc maximum for Essential Bus Volts?",
     "options": ["24.5 – 32 Volts", "0 – 36 Volts", "0 – 24.4 Volts", "> 32 Volts"],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "46. What is the overall range for Main Bus 1 Voltage?",
@@ -260,3 +260,4 @@ const questions = [
     "correct": 0
   },
 ];
+
